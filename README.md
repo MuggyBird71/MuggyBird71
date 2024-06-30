@@ -1,8 +1,8 @@
-# <Your Name Here>
+# <Dylan Phillips>
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm <Dylan>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -12,12 +12,11 @@ I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in 
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: <Python, C#, C++, Swift, HTML5, CSS, Javascript, Java, Docker Files, etc.>
+- Skills: <Sales Experience, Excel Experience, Front Desk Experience, etc. >
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/dylan-phillips-1944mj/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
