@@ -1,8 +1,8 @@
-# <Dylan Phillips>
+# Dylan Phillips
 
 Hello, GitHub! 👋
 
-I'm <Dylan>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Dylan, a student at Brigham Young University-Idaho interested in computer science, data science, web development, machine learning, etc. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -12,8 +12,8 @@ I'm <Dylan>, a student at Brigham Young University-Idaho interested in <Your Pro
 
 ## Technologies and Tools
 
-- Proficient in: <Python, C#, C++, Swift, HTML5, CSS, Javascript, Java, Docker Files, etc.>
-- Skills: <Sales Experience, Excel Experience, Front Desk Experience, etc. >
+- Proficient in: Python, C#, C++, Swift, HTML5, CSS, Javascript, Java, Docker Files, etc.
+- Skills: Sales Experience, Excel Experience, Front Desk Experience, etc. 
 
 ## Let's Connect!
 
